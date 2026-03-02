@@ -21,6 +21,8 @@ The objective of this project is to:
 
 -Dataset: House Prices – Advanced Regression Techniques
 
+  🔗 Download link: www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+
 -Target Variable: SalePrice
 
 The dataset contains 79 explanatory variables describing residential homes.
@@ -73,6 +75,22 @@ Nominal categorical variables were transformed using:
 
 This prevents multicollinearity in linear models.
 
+📁 Project Structure
+house-price-regression-pipeline/
+│
+├── data/
+│   └── archive/
+│       └── train.csv
+│ 
+│       └── data_description.txt
+│ 
+│       └── sample_submission.csv
+│ 
+│       └── model_results.csv
+│
+└── main.py
+
+
 🤖 Models Implemented
 
 The following regression algorithms were trained and compared:
@@ -123,3 +141,5 @@ model_results.csv
 -NumPy
 
 -Scikit-learn
+
+Install Dependencies : pip install pandas numpy scikit-learn

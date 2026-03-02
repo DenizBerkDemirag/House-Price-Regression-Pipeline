@@ -21,7 +21,7 @@ The objective of this project is to:
 
 -Dataset: House Prices – Advanced Regression Techniques
 
-  🔗 Download link: www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+  🔗 Download link: www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data (test.csv wasn't used.)
 
 -Target Variable: SalePrice
 

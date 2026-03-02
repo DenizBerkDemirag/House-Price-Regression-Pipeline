@@ -86,15 +86,12 @@ house-price-regression-pipeline/
 
 │       └── train.csv
 
-│ 
 
 │       └── data_description.txt
 
-│ 
 
 │       └── sample_submission.csv
 
-│ 
 
 │       └── model_results.csv
 

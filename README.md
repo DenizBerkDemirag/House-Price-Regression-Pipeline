@@ -77,17 +77,29 @@ This prevents multicollinearity in linear models.
 
 📁 Project Structure
 house-price-regression-pipeline/
+
 │
+
 ├── data/
+
 │   └── archive/
+
 │       └── train.csv
+
 │ 
+
 │       └── data_description.txt
+
 │ 
+
 │       └── sample_submission.csv
+
 │ 
+
 │       └── model_results.csv
+
 │
+
 └── main.py
 
 
